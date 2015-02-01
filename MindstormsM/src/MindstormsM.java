@@ -50,7 +50,7 @@ public class MindstormsM {
 		
 		
 		DATA.ls.setFloodlight(true);
-		
+		//this is a GitHub test
 		LCD.clear();
 		
 	}
