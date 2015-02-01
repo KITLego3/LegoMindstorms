@@ -50,7 +50,8 @@ public class MindstormsM {
 		
 		
 		DATA.ls.setFloodlight(true);
-		//this is a GitHub test
+		//this is a GitHub test - line written on laptop
+		//and this line was written on githum.com
 		LCD.clear();
 		
 	}
