@@ -9,6 +9,8 @@ import lejos.robotics.navigation.DifferentialPilot;
 
 public class ParcoursThread extends Thread {
 	
+	//Patrick rockt
+	
 	int rückfahrt;
 	int bodenEntfernungIST;
 	int bodenEntfernungMAX;
